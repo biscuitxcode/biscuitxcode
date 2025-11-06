@@ -16,10 +16,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🪟 Created https://github.com/bTechnologies-dev
+- 🪟 Created https://github.com/bTechnologies-dev
+- 🔭 I’m currently working on [bTechnologies](https://btechnologies.dev/)
+- 📫 How to reach me **biscuit@btechnologies.dev**
 <!--END_SECTION:activity-->
 
 
-- 🔭 I’m currently working on [bTechnologies](https://btechnologies.dev/)
-
-- 📫 How to reach me **biscuit@btechnologies.dev**
