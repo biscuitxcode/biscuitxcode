@@ -1,31 +1,47 @@
-<h3 align="center">Java Developer / Learning Reverse Engineering</h3>
+<h1 align="center">👋 Hey, I'm biscuit</h1>
+<h3 align="center">☕ Java Developer • 🧠 Learning Reverse Engineering</h3>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats-sigma-nine-45.vercel.app/api?username=biscuitxcode&show_icons=true&theme=transparent" alt="biscuit's GitHub stats">
-</div>
-
-###
+---
 
 <div align="center">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img src="https://github-readme-stats-sigma-nine-45.vercel.app/api?username=biscuitxcode&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="biscuit's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biscuitxcode&theme=transparent&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
-### :zap: Activity
+---
+
+### 🧰 Tech Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" />
+  <img width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ logo" />
+  <img width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />
+</div>
+
+---
+
+### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🪟 Created https://github.com/bTechnologies-dev
-- 🔭 I’m currently working on [bTechnologies](https://btechnologies.dev/)
-- 📫 How to reach me **biscuit@btechnologies.dev**
+- 🪟 Created [bTechnologies](https://github.com/bTechnologies-dev)
+- 🔭 Currently working on [bTechnologies.dev](https://btechnologies.dev/)
+- 📫 Reach me at **biscuit@btechnologies.dev**
 <!--END_SECTION:activity-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@biscuitxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biscuitxcode" height="30" width="40" /></a>
-<a href="https://discord.gg/dEA2KDMZ8z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dEA2KDMZ8z" height="30" width="40" /></a>
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.youtube.com/@biscuitxcode" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="50" alt="YouTube" />
+  </a>
+  <a href="https://discord.gg/dEA2KDMZ8z" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="50" alt="Discord" />
+  </a>
 </p>
 
+---
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=biscuitxcode&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</div>
