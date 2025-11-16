@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-nine-45.vercel.app/api?username=biscuitxcode&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="biscuit's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats-sigma-nine-45.vercel.app/api?username=xbiscuitcode&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="biscuit's GitHub stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xbiscuitcode&theme=transparent&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
@@ -32,7 +32,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.youtube.com/@biscuitxcode" target="_blank">
+  <a href="https://www.youtube.com/@xbiscuitcode" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="50" alt="YouTube" />
   </a>
   <a href="https://discord.gg/dEA2KDMZ8z" target="_blank">
@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=biscuitxcode&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=xbiscuitcode&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
 
   <picture>
