@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-nine-45.vercel.app/api?username=biscuitxcode&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="biscuit's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biscuitxcode&theme=transparent&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xbiscuitcode&theme=transparent&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
 ---
